@@ -1,2 +1,2 @@
-# PythonProjects
-Compilation of projects ranging in skill level.
+# wip
+Compilation of work ranging in skill level.
