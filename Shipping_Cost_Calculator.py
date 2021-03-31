@@ -1,3 +1,5 @@
+#if,elif, else
+
 international_shipping = True
 
 total = 150
