@@ -11,3 +11,4 @@ print("No duplicates.")
 print(no_duplicates)
 
 same_average = average_grade_1 == average_grade_2
+
