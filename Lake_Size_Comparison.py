@@ -1,3 +1,5 @@
+#using max, min to find datasets largest and smallest values and displaying the difference
+
 sizes = [7340, 2117, 22300, 31700, 1679, 1014, 23000, 9910, 685]
 
 largest = max(sizes)
