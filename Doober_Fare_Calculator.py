@@ -1,3 +1,5 @@
+#using conditionsals to calculate rideshare fare depending on ride type 
+
 ride_type = 'Black'
 credits = 4
 
